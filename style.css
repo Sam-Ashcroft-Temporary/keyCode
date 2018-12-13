@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: darkcyan;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 150px;
+    line-height: 150px;
+}
+
+p {
+    line-height: 100px
+}
+
+#input {
+    position: absolute;
+    top: 160px;
+    height: 28px;
+    width: 50%;
+    left: 25%;
+}
+
+#typeHere {
+    position: absolute;
+    top: 165px;
+    left:5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#eventKeyCodeTitle {
+    position: absolute;
+    background-color: darkturquoise;
+    width: 25%;
+    top: 200px;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventKeyTitle {
+    position: absolute;
+    background-color: dodgerblue;
+    width: 25%;
+    top: 200px;
+    left: 25%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventCodeTitle {
+    position: absolute;
+    background-color: rgb(19, 179, 163);
+    width: 25%;
+    top: 200px;
+    left: 50%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventWhichTitle {
+    position: absolute;
+    background-color: rgb(48, 103, 221);
+    width: 25%;
+    top: 200px;
+    left: 75%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventKeyCode {
+    position: absolute;
+    background-color: dodgerblue;
+    width: 25%;
+    top: 300px;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventKey {
+    position: absolute;
+    background-color: rgb(19, 179, 163);
+    width: 25%;
+    top: 300px;
+    left: 25%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventCode {
+    position: absolute;
+    background-color: rgb(48, 103, 221);
+    width: 25%;
+    top: 300px;
+    left: 50%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#eventWhich {
+    position: absolute;
+    background-color: darkturquoise;
+    width: 25%;
+    top: 300px;
+    left: 75%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
